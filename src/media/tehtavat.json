@@ -1,0 +1,470 @@
+[{
+        "numero": "Dohtuxa",
+        "nimi": "Ohjelmiston toimintojen toteuttaminen",
+        "url": "https://public.bc.fi/s1900877/TeamDiscord/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/dohtuxa.png"
+    },
+    {
+        "numero": "Dohtuxb",
+        "nimi": "Käyttöliittymän toteuttaminen",
+        "url": "https://public.bc.fi/s1900877/kayttoliittyman_toteutus-v3.pdf",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/dohtuxb.png"
+    }, {
+        "numero": "Dohtuxc",
+        "nimi": "Tietokantayhteyden toteuttaminen",
+        "url": "https://public.bc.fi/s1900877/tietokantayhteys.pdf",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/dohtuxc.png"
+    }, {
+        "numero": "Dohtuxd",
+        "nimi": "Ohjelmiston testaaminen",
+        "url": "https://public.bc.fi/s1900877/testausdokumentti.pdf",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/dohtuxd.png"
+    }, {
+        "numero": "Dohtuxe",
+        "nimi": "Tietojärjestelmän tietoturvallisuuden arvioiminen",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/tietoturvallisuus.pdf",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/dohtuxd.png"
+    }, {
+        "numero": "Dohtuxf",
+        "nimi": "Ohjelmiston asennus- ja käyttöohjeiden laatiminen",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/laadi_asennus_ja_kayttoohjeet.pdf",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/dohtuxf.png"
+    }, {
+        "numero": "Dohtuxg",
+        "nimi": "Ohjelmiston moduuli- tai luokkakaavion toteuttaminen",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/moduulikaavio.pdf",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/dohtuxg.png"
+    },
+    {
+        "numero": 2,
+        "nimi": "Nimilappu",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/nimilappu/nimilappu.pdf",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/nimilappu.png"
+    },
+    {
+        "numero": 5,
+        "nimi": "Koulun palvelujen etsiminen ja selfiet",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/palvelut",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/koulun-palvelut-haltuun.jpg"
+    }, {
+        "numero": 8,
+
+        "nimi": "Kysely Google Docsin avulla",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/google-forms/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/google-forms-kysely.png"
+    }, {
+        "numero": 9,
+
+        "nimi": "CSS-laatikkomalli",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/css-laatikkomalli/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/css-laatikkomalli.png"
+    }, {
+        "numero": 10,
+
+        "nimi": " Mikä on bitti?",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/mita-tarkoitaa-binaarinen/mita-tarkoittaa-binaarinen.pdf",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/mita-tarkoittaa-binaarinen.png"
+    }, {
+        "numero": 11,
+
+        "nimi": "Visual Code Studio koodaajan apuna",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/visual-studio-code-koodaajan-apuna/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/visual-studio-koodaajan-apuna.png"
+    },
+    {
+        "numero": 12,
+
+        "nimi": " Semanttiset tagit - flex",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/semanttiset-tagit-flex/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/semanttiset-tagit-flex.png"
+    },
+    {
+        "numero": 12,
+
+        "nimi": " Semanttiset tagit - float",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/semanttiset-tagit-float/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/semanttiset-tagit-float.png"
+    },
+    {
+        "numero": 13,
+
+        "nimi": "Flex Box malli auki purettuna",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/flexbox-malli/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/flexbox-malli.png"
+    },
+    {
+        "numero": 14,
+
+        "nimi": "John Smith Photography",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/john-smith-photography/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/john-smith.png"
+    },
+    {
+        "numero": 16,
+
+        "nimi": "Skaalautuva navigointipalkki",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/skaalautuva-navigointipalkki/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/skaalautuva-navigointipalkki.png"
+    }, {
+        "numero": 17,
+
+        "nimi": "Nice Navigation",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/nice-navigation/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/nice-navigation.png"
+    },
+    {
+        "numero": 18,
+
+        "nimi": "Asenna WordPress",
+        "url": "https://public.bc.fi/s1900877/wp_web19/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/asenna-wordpress.png"
+    }, {
+        "numero": 19,
+
+        "nimi": "Muotoile WordPress-teemaa twentynineteen-child",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/twentynineteen-child/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/muotoile-teemaa.png"
+    }, {
+        "numero": 20,
+
+        "nimi": "Paljonkos juolulomaan olikaan aikaa?",
+        "url": "https://public.bc.fi/s1900877/wp_web19/paljonko-joululumaan-on-aikaa/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/joululomaan-aikaa.png"
+    },
+    {
+        "numero": 21,
+
+        "nimi": "Flexible text using em",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/flexible-text-em/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/em-versio.png"
+    }, {
+        "numero": 21,
+
+        "nimi": "Flexible text using rem",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/flexible-text-rem/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/rem-versio.png"
+    }, {
+        "numero": 22,
+
+        "nimi": "Särkymättömät rivit",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/sarkymattomat-rivit/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/sarkymattomat-rivit.png"
+    },
+    {
+        "numero": 23,
+
+        "nimi": "Joustavat rivit",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/joustavat-rivit/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/joustavat-rivit.png"
+    },
+    {
+        "numero": 24,
+
+        "nimi": "Luovaa kelluttamista",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/luovaa-kelluttamista/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/luovaa-kelluttamista.png"
+    },
+    {
+        "numero": 25,
+        "nimi": "Bulletproof Arrow - vasen",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/bulletproof-arrow-left/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/buttetproof-vasen.png"
+    }, {
+        "numero": 25,
+        "nimi": "Bulletproof Arrow - oikea",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/bulletproof-arrow-right/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/bulletproof-oikea.png"
+    },
+    {
+        "numero": 26,
+
+        "nimi": "Bulletproof Arrow - lisää luodinkestäviä nuolia",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/bulletproof-molemmat/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/bulletproof-molemmat.png"
+    },
+
+    {
+        "numero": 28,
+
+        "nimi": "Git ja Portfolion teko",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/git-ja-portfolio/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/git-ja-portfolio.png"
+    },
+    {
+        "numero": 29,
+
+        "nimi": "Asenna VPN käyttöösi",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/asenna-vpn-kayttoosi/vpn.PNG",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/vpn.png"
+    },
+    {
+        "numero": 30,
+
+        "nimi": "Vihje laatikosta",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/vihje-laatikoista/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/vihje-laatikoista.png"
+    },
+
+    {
+        "numero": 32,
+
+        "nimi": "Särkymätön laatikko",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/sarkymaton-laatikko/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/sarkymaton-laatikko.png"
+    },
+    {
+        "numero": 33,
+
+        "nimi": "Tee WordPressillä sivusto yritykselle",
+        "url": "https://public.bc.fi/s1900877/sumama",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/sumama-wp.png"
+    },
+    {
+        "numero": 34,
+
+        "nimi": "Kesätehtävä: Yksivuinen web-palvelu WordPressin avulla",
+        "url": "https://public.bc.fi/s1900877/enlightenment/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/kesatehtava.png"
+    },
+
+    {
+        "numero": 36,
+
+        "nimi": "Flexbox-harjoitus",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/flex-harjoitus/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/flex-harjoitus.png"
+    },
+
+    {
+        "numero": 38,
+
+        "nimi": "Skaalautuva kuva Illustratorilla",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/skaalautuva-kuva-illustatorilla/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/skaalautuva-kuva.png"
+    },
+    {
+        "numero": 39,
+
+        "nimi": "Responsiivinen Fluid Grid-asettelu web-sivuilla",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/fluid-grid/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/fluid-grid.png"
+    },
+    {
+        "numero": 40,
+
+        "nimi": "Fluid Grid - asettelun soveltaminen",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/fluid-grid-soveltaminen/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/fluid-grid-soveltaminen.png"
+    }, {
+        "numero": 41,
+
+        "nimi": "Sovella Flexboxia",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/sovella-flexboxia/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/sovella-flexboxia.png"
+    },
+    {
+        "numero": 42,
+
+        "nimi": "Toteuta Ilta Sanomat - lehden web-palvelun layout",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/toteuta-iltasanomat/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/iltasanomat.png"
+    },
+
+    {
+        "numero": 46,
+
+        "nimi": "Tee responsiivinen kuva-albumi CSS-säännöin",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/responsiivinen-kuva-albumi/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/kuva-galleria.jpg"
+    }, {
+        "numero": 47,
+
+        "nimi": "Bootstrap 4 haltuun",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/bootstrap-start/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/bootstrap.png"
+    },
+    {
+        "numero": 48,
+
+        "nimi": "JavaScript tutorial",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/javascript-tutorial/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/javascript-tutorial.png"
+    }, {
+        "numero": 50,
+
+        "nimi": "freecpdecamp.org ja JavaScript",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/javascript-tutorial-freecodecamp/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/javascript-tutorial-freecodecamp/40-prosenttia.png"
+    },
+    {
+        "numero": 51,
+
+        "nimi": "CSS = Styles and Colors",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/styles-and-colors/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/css-animaatio.png"
+    }, {
+        "numero": 52,
+
+        "nimi": "Image Gallery JavaScriptin avulla",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/image-gallery-javascriptin-avulla/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/image-gallery.png"
+    },
+    {
+        "numero": 53,
+
+        "nimi": "Vaihda fonttia JavaScriptin avulla",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/fontin-vaihto/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/muuta-fonttia.png"
+    }, {
+        "numero": 54,
+
+        "nimi": " Vaihda kuva ja teksti JavaScriptin avulla",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/change-image-and-text-with-js/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/vaihda_kuva_ja_teksti.png"
+    }, {
+        "numero": 55,
+
+        "nimi": "Lisää JavaScriptillä HTML-rakenne",
+        "url": "https://public.bc.fi/s1900877/portfolio/ammatilliset-tutkinnonosat/ohjelmistotuotannon-osaamisala/ohjelmiston-tuotantoversion-toteuttaminen/lisaa-javascriptilla-html-rakenne/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/lisaa_html_rakenne.png"
+    },
+
+    {
+        "numero": 59,
+
+        "nimi": "Angular ja Bootstrap 4",
+        "url": "https://angular-ja-bootstrap4.web.app/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/angular-ja-bootstrap4.png"
+    },
+    {
+        "numero": 60,
+
+        "nimi": "Angular ja DataBinding",
+        "url": "https://my-dream-app-979a8.web.app/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/my-dream-app.png"
+    },
+
+    {
+        "numero": 62,
+
+        "nimi": "Custom Components et Nesting Components",
+        "url": "https://my-dream-app-979a8.web.app/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/my-dream-app.png"
+    },
+    {
+        "numero": 63,
+
+        "nimi": "Working with component templates",
+        "url": "https://my-dream-app-979a8.web.app/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/my-dream-app.png"
+    },
+    {
+        "numero": 64,
+
+        "nimi": "How to setup Component selector",
+        "url": "https://my-dream-app-979a8.web.app/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/my-dream-app.png"
+    },
+    {
+        "numero": 65,
+
+        "nimi": "Asiakas - Tilaus Angular - tutoriaali",
+        "url": "https://asiakas-tilaus-2f0e8.web.app/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/asiakas-tilaus.png"
+    },
+    {
+        "numero": 66,
+
+        "nimi": "'Angular for Beginners' ja versionhallinta GitHub:issa section2",
+        "url": "https://angular-for-beginners-sektion2.web.app/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/angular-for-beginners-2.png"
+    },
+    {
+        "numero": 67,
+
+        "nimi": "TypeScript - tutorial",
+        "url": "https://github.com/nnoaaq/typescript",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/typescript.png"
+    }, {
+        "numero": 68,
+
+        "nimi": "Setup GitHub and Firebase Hosting for Angular Projects",
+        "url": "https://nnoaaq.github.io./",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/github_pages.png"
+    },
+    {
+        "numero": 69,
+
+        "nimi": "Success- ja Warning-ilmoitukset",
+        "url": "https://warning-ja-success-fd8a6.web.app/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/fontawesome-ja-bootstrap.png"
+    },
+    {
+        "numero": 70,
+
+        "nimi": "String Interpolation - ja Property-binding",
+        "url": "https://my-dream-app-979a8.web.app/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/string-interpolation.png"
+    },
+    {
+        "numero": 71,
+
+        "nimi": "Event Binding",
+        "url": "https://my-dream-app-979a8.web.app/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/event-binding.png"
+    }, {
+        "numero": 72,
+
+        "nimi": "Two-way-binding",
+        "url": "https://my-dream-app-979a8.web.app/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/event-binding.png"
+    },
+    {
+        "numero": 73,
+
+        "nimi": "Sovella Angularin neljää Data Bindingia",
+        "url": "https://sovella-databindingia-158c0.web.app/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/sovella-databinding.png"
+    },
+    {
+        "numero": 74,
+
+        "nimi": "Angular Directives",
+        "url": "https://angular-directives-124kn.web.app/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/angular-directives.png"
+    },
+    {
+        "numero": 75,
+
+        "nimi": "Sovella Angular Directive:jä",
+        "url": "https://sovella-ng-directives-cd69e.web.app/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/sovella-angular-directiveja.png"
+    },
+    {
+        "numero": 76,
+
+        "nimi": "Debugging Angular",
+        "url": "https://nnoaaq.github.io/angular-debugging/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/angular-debugging.png"
+    },
+    {
+        "numero": 77,
+
+        "nimi": "Splitting Apps To Components",
+        "url": "https://kahvila-6e6e9.web.app/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/kahvila.png"
+    },
+    {
+        "numero": 78,
+
+        "nimi": "Angular – Tour of Heroes",
+        "url": "https://angular-tour-of-heroes-2cf3d.web.app/dashboard",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/angular-tour-of-heroes.png"
+    },
+    {
+        "numero": 80,
+        "nimi": "Soveltava tehtävä: Tuoteluettelo Angularin avulla",
+        "url": "https://nnoaaq.github.io/tuoteluettelo/",
+        "kuva": "https://public.bc.fi/s1900877/portfolio/kuvat/tuoteluettelo.png"
+    }
+]
